@@ -1,0 +1,54 @@
+.bgimg{
+	background-image: url("https://cdn-images-1.medium.com/max/2400/1*eG2MFl0sGRKFmd_USgA_8Q.jpeg");
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 760px;
+
+}
+.headerset{
+	padding-top: 250px;
+	box-sizing: border-box;
+}
+.headerset h2{
+	font-size: 42px;
+}
+.headerset h1{
+	font-size: 72px;
+	font-style: bold;
+}
+/*...............oourservices..*/
+.ourservices{
+
+	padding: 400px 0px 60px ;
+	height: 700px;
+
+}
+.ourservices h1{
+	font-size: 50px;
+	font-style: bold;
+}
+.rowsetting{
+	margin: 80px;
+
+}
+.imgsetting {
+ 	 border-radius: 50%;
+ 	 height: 100px;
+ 	 width: 100px;
+
+}
+
+.fa-shopping-cart{
+	margin-top: 20px;
+}
+.fa-laptop{
+	margin-top: 25px;
+}
+.fa-lock{
+	margin-top: 25px;
+}
+.rowsetting p{
+	color: 	#7c8184;
+	padding: 10px;
+}
